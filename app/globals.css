@@ -25,4 +25,12 @@ html {
   .top-menu-info-container {
     @apply flex justify-between w-full items-center max-xs:flex-col max-xs:items-start max-xs:gap-2;
   }
+
+  .hero-container {
+    @apply w-full lg:h-screen h-fit bg-light-bg relative px-[40px] py-10 max-xs:px-[20px];
+  }
+
+  .hero-content-container {
+    @apply flex items-center justify-between h-full max-w-[1250px] mx-auto max-md:flex-col max-md:gap-10 max-md:text-center;
+  }
 }
