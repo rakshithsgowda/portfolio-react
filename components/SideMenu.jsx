@@ -108,7 +108,6 @@ const SideMenu = () => {
             <div className='flex flex-col lg:flex-row items-center gap-4 mb-3'>
               <a href='/' target='_blank' className='social-icon text-white'>
                 <BsYoutube />
-                <p>hi</p>
               </a>
               <a href='/' target='_blank' className='social-icon text-white'>
                 <AiFillLinkedin />
